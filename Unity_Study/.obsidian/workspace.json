@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "83d1e2bedad922a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "68830531ae8e1cda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "111ccc44e83cb420",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "371c5b53a0bbe05c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "유니티 활용 C샾 프로그래밍 기초.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5fc0d15ea28050c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "키보드와 마우스에 따른 이동.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c15eb2b48807fc6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "목표 지점 이동시키기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c75a1ab0e8d3f57e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "델타 타임 (이동 거리를 공평하게).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6f187bf1d6c05e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "53596ac992509a4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd06eea6c101783",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a376e842026fb6ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9da4365c1a8c0115",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e3b61faf07e9aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5742e3208e069190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "129d6c78c900e53f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "델타 타임 (이동 거리를 공평하게).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8456a33be15a488",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "델타 타임 (이동 거리를 공평하게).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4e5f91069544309",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e1112bcbf0e9753",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "델타 타임 (이동 거리를 공평하게).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "c75a1ab0e8d3f57e",
+  "lastOpenFiles": [
+    "목표 지점 이동시키기.md",
+    "델타 타임 (이동 거리를 공평하게).md",
+    "키보드와 마우스에 따른 이동.md",
+    "유니티 활용 C샾 프로그래밍 기초.md"
+  ]
+}
