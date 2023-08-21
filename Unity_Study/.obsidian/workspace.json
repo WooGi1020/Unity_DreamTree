@@ -62,9 +62,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e116841fa9bebf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "실제와 같은 물체 만들기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1538dd80c3c4dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "힘을 이용해 물체 움직이기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54c8c02f43123e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "물리 충돌 이벤트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2614f0809b0d5e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "게임 인터페이스 (UGUI).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -130,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "델타 타임 (이동 거리를 공평하게).md",
+                "file": "게임 인터페이스 (UGUI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "델타 타임 (이동 거리를 공평하게).md",
+                "file": "게임 인터페이스 (UGUI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "델타 타임 (이동 거리를 공평하게).md"
+                "file": "게임 인터페이스 (UGUI).md"
               }
             }
           }
@@ -191,11 +239,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c75a1ab0e8d3f57e",
+  "active": "2614f0809b0d5e5e",
   "lastOpenFiles": [
-    "목표 지점 이동시키기.md",
-    "델타 타임 (이동 거리를 공평하게).md",
+    "물리 충돌 이벤트.md",
+    "게임 인터페이스 (UGUI).md",
+    "힘을 이용해 물체 움직이기.md",
     "키보드와 마우스에 따른 이동.md",
+    "실제와 같은 물체 만들기.md",
+    "델타 타임 (이동 거리를 공평하게).md",
+    "목표 지점 이동시키기.md",
     "유니티 활용 C샾 프로그래밍 기초.md"
   ]
 }
